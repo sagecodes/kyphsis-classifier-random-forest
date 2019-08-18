@@ -21,7 +21,7 @@ Predict if Kyphosis will return to patient after corrective spinal surgery
 
 #### Dataset(s):
 
-- [Amazon Alexa Reviews](https://www.kaggle.com/sid321axn/amazon-alexa-reviews)
+- [Kyphosis Dataset](https://www.kaggle.com/abbasit/kyphosis-dataset/metadata)
 
 #### Libraries:
 
